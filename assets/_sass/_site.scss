@@ -11,9 +11,14 @@
   overflow-y: auto;
 }
 
+.block-left {
+  width: 33%;
+}
+.block-right {
+  width: 67%;
+}
 .block-left,
 .block-right {
-  width: 33%;
   height: 100%;
   position: relative;
   display: table;
