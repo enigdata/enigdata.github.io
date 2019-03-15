@@ -138,6 +138,12 @@ To set what image links appear in the overlay menu edit `_data/projects.yaml`. U
 
 ---
 
+## code blocks
+```
+def add(a, b):
+    return a+b
+```
+
 ## Layouts and Content
 
 Halve Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-html) to compress html output. But it can cause errors if you use "linenos" (line numbers). I suggest don't use line numbers for codes, because it won't look good with this theme, also i didn't give a proper style for them. If you insist to use line numbers, just remove `layout: compress` string from layouts. It will disable compressing.
