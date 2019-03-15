@@ -139,7 +139,7 @@ To set what image links appear in the overlay menu edit `_data/projects.yaml`. U
 ---
 
 ## code blocks
-```
+```python
 def add(a, b):
     return a+b
 ```
