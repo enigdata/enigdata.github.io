@@ -8,7 +8,7 @@
   image: images/transformers.png
   completed: true
 
-- title: English Language Evaluation with DeBERTa
+- title: Language Evaluation with DeBERTa
   url: http://taylantatli.me/Ramme
   image: images/nlp.png
   completed: true
