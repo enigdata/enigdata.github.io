@@ -1,6 +1,6 @@
 - title: Multi-Objective Recommender System
   url: https://github.com/enigdata/multi_obj_recommender_system.git
-  #image: http://taylantatli.me/Halve/images/halve-home-image.png
+  image: images/ecommerce.png
   completed: true
 
 - title: Transformers on Time Series
