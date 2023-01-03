@@ -4,17 +4,17 @@
   completed: true
 
 - title: Transformers on Time Series
-  url: http://taylantatli.me/Moon
+  url: https://github.com/enigdata/transformer_time_series.git
   image: images/transformers.png
   completed: true
 
 - title: Language Evaluation with DeBERTa
-  url: http://taylantatli.me/Ramme
+  url: https://github.com/enigdata/nlp_project.git
   image: images/nlp.png
   completed: true
 
 - title: Steel Defect Detection
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
+  url: https://github.com/enigdata/image_project.git
   image: images/defect.png
   completed: true
 
