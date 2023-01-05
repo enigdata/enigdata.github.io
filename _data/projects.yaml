@@ -13,7 +13,7 @@
   image: images/writing_ai.png
   completed: true
 
-- title: Steel Defect Detection
+- title: Landmark Recognition
   url: https://github.com/enigdata/image_project.git
   image: images/steel_defect.jpeg
   completed: true
