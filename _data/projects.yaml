@@ -3,9 +3,9 @@
   image: images/dark_orange.png
   completed: true
 
-- title: Transformers on Time Series
+- title: Stock Volatility Prediction
   url: https://github.com/enigdata/transformer_time_series.git
-  image: images/transformers.png
+  image: images/market.png
   completed: true
 
 - title: Language Evaluation with DeBERTa
