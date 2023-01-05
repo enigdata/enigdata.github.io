@@ -13,12 +13,12 @@
   image: images/writing_ai.png
   completed: true
 
-- title: Landmark Recognition
-  url: https://github.com/enigdata/image_project.git
-  image: images/landmark.png
-  completed: true
-
 - title: Reinforcement Learning Games
   url: https://github.com/enigdata/reinforcement_learning_project.git
   image: images/black_puzzle.jpeg
+  completed: true
+  
+- title: Landmark Recognition
+  url: https://github.com/enigdata/image_project.git
+  image: images/landmark.png
   completed: true
