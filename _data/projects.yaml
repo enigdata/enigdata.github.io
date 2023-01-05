@@ -15,7 +15,7 @@
 
 - title: Landmark Recognition
   url: https://github.com/enigdata/image_project.git
-  image: images/steel_defect.jpeg
+  image: images/landmark.jpeg
   completed: true
 
 - title: Reinforcement Learning Games
