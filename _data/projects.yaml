@@ -9,7 +9,7 @@
   completed: true
 
 - title: Language Evaluation with DeBERTa
-  url: https://github.com/enigdata/nlp_project.git
+  url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
   image: images/writing_ai.png
   completed: true
 
