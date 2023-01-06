@@ -1,6 +1,6 @@
-- title: Transformer on Time Series
+- title: mRNA Vaccine Degradation Prediction
   url: https://github.com/enigdata/multi_obj_recommender_system.git
-  image: images/transformers.png
+  image: images/mrna.jpeg
   completed: true
 
 - title: Stock Volatility Prediction
