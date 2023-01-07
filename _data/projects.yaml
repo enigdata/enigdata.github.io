@@ -18,7 +18,7 @@
   image: images/dark_orange.png
   completed: true
   
-- title: Landmark Recognition
-  url: https://github.com/enigdata/Landmark-Recognition.git
-  image: images/landmark.png
+- title: Player Contact Detection
+  url: https://github.com/enigdata/NFL-Player-Contact-Detection.git
+  image: images/player_contact.gif
   completed: true
