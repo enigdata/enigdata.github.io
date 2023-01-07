@@ -1,6 +1,6 @@
-- title: mRNA Vaccine Degradation Prediction
-  url: https://github.com/enigdata/mRNA-Vaccine-Project.git
-  image: images/mrna.jpeg
+- title: Microbusiness Density Forecasting
+  url: https://github.com/enigdata/Microbusiness-Density-Forecasting.git
+  image: images/microbusiness.jpeg
   completed: true
 
 - title: Stock Volatility Prediction
