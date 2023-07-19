@@ -1,3 +1,33 @@
+- title: Transformer-based Visual Feature Extraction
+  url: https://github.com/enigdata/Multi-Objective-Recommender-System.git
+  image: images/visual_feature.jpeg
+  completed: true
+
+- title: Knowledge Graph
+  url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
+  image: images/knowledge_graph.jpeg
+  completed: true
+
+- title: Self-supervised Visual Encoder
+  url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
+  image: images/text_summarize.jpeg
+  completed: true
+
+- title: Text Summarization System
+  url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
+  image: images/text_summarize.jpeg
+  completed: true
+
+- title: ChatGPT1
+  url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
+  image: images/ChatGPT1.jpeg
+  completed: true
+
+- title: ChatGPT2
+  url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
+  image: images/llm1.png
+  completed: true
+
 - title: Microbusiness Density Forecasting
   url: https://github.com/enigdata/Microbusiness-Density-Forecasting.git
   image: images/microbusiness.jpeg
@@ -6,24 +36,4 @@
 - title: Stock Volatility Prediction
   url: https://github.com/enigdata/Stock-Volatility-Prediction.git
   image: images/market.png
-  completed: true
-
-- title: Text Summarization System
-  url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
-  image: images/text_summarize.jpeg
-  completed: true
-
-- title: Knowledge Graph
-  url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
-  image: images/knowledge_graph.jpeg
-  completed: true
-
-- title: Transformer-based Visual Feature Extraction
-  url: https://github.com/enigdata/Multi-Objective-Recommender-System.git
-  image: images/visual_feature.jpeg
-  completed: true
-  
-- title: Player Contact Detection
-  url: https://github.com/enigdata/NFL-Player-Contact-Detection.git
-  image: images/player_contact.gif
   completed: true
