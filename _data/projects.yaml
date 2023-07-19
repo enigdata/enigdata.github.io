@@ -10,7 +10,7 @@
 
 - title: Self-supervised Visual Encoder
   url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
-  image: images/text_summarize.jpeg
+  image: images/visual_encoder.jpeg
   completed: true
 
 - title: Text Summarization System
@@ -25,7 +25,7 @@
 
 - title: ChatGPT2
   url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
-  image: images/llm1.png
+  image: images/llm2.jpeg
   completed: true
 
 - title: Microbusiness Density Forecasting
