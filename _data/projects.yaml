@@ -33,7 +33,7 @@
   image: images/market.png
   completed: true
 
-- title: Microbusiness Density Forecaste
+- title: Microbusiness Density Forecast
   url: https://github.com/enigdata/Microbusiness-Density-Forecasting.git
   image: images/microbusiness.jpeg
   completed: true
