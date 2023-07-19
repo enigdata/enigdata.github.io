@@ -15,17 +15,17 @@
 
 - title: Text Summarization System
   url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
-  image: images/text_summarize.jpeg
+  image: images/text.jpeg
   completed: true
 
 - title: ChatGPT1
   url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
-  image: images/ChatGPT1.jpeg
+  image: images/chatgpt.jpeg
   completed: true
 
 - title: ChatGPT2
   url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
-  image: images/llm2.jpeg
+  image: images/llm3.jpeg
   completed: true
 
 - title: Microbusiness Density Forecasting
