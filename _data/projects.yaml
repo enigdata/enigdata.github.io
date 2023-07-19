@@ -8,14 +8,19 @@
   image: images/market.png
   completed: true
 
-- title: Language Evaluation with DeBERTa
+- title: Text Summarization System
   url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
-  image: images/writing_ai.png
+  image: images/text_summarize.jpeg
   completed: true
 
-- title: Multi-objective Recommender System
+- title: Knowledge Graph
+  url: https://github.com/enigdata/Transformers-on-Language-Evaluation.git
+  image: images/knowledge_graph.jpeg
+  completed: true
+
+- title: Transformer-based Visual Feature Extraction
   url: https://github.com/enigdata/Multi-Objective-Recommender-System.git
-  image: images/dark_orange.png
+  image: images/visual_feature.jpeg
   completed: true
   
 - title: Player Contact Detection
