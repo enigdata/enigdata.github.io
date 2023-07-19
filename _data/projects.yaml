@@ -28,12 +28,12 @@
   image: images/llm3.jpeg
   completed: true
 
-- title: Microbusiness Density Forecasting
-  url: https://github.com/enigdata/Microbusiness-Density-Forecasting.git
-  image: images/microbusiness.jpeg
-  completed: true
-
 - title: Stock Volatility Prediction
   url: https://github.com/enigdata/Stock-Volatility-Prediction.git
   image: images/market.png
+  completed: true
+
+- title: Microbusiness Density Forecasting
+  url: https://github.com/enigdata/Microbusiness-Density-Forecasting.git
+  image: images/microbusiness.jpeg
   completed: true
