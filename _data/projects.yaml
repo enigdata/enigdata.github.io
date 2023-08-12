@@ -28,7 +28,7 @@
   image: images/ai.jpeg
   completed: true
 
-- title: Stock Volatility Prediction
+- title: Market Prediction
   url: https://github.com/enigdata/Stock-Volatility-Prediction.git
   image: images/market.png
   completed: true
